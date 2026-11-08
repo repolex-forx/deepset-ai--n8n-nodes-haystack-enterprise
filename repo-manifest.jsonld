@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/deepset-ai/n8n-nodes-haystack-enterprise/commit/c680d36e90b3075081fcedac04f49f1f4132c60d",
       "git:hexsha": "c680d36e90b3075081fcedac04f49f1f4132c60d",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.4.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.4.0",
+      "repolex:parsedAt": "2026-11-08T11:20:04.327970+00:00"
     },
     {
       "@id": "https://repolex.ai/r/deepset-ai/n8n-nodes-haystack-enterprise/commit/5e181b3dfe23dfdc5fdc0713ec2f4f81d8d01a25",
