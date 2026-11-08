@@ -1,0 +1,11 @@
+{
+  "org": "deepset-ai",
+  "repo": "n8n-nodes-haystack-enterprise",
+  "versions": [
+    {
+      "commit": "c680d36e90b3075081fcedac04f49f1f4132c60d",
+      "tag": "v0.4.0",
+      "parsed_at": "2026-11-08T11:20:04.328402+00:00"
+    }
+  ]
+}
